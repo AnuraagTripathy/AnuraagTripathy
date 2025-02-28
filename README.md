@@ -28,24 +28,44 @@ fact-checking.
 for user queries.
 - Designed a scalable backend to retrieve, rank, and generate concise, evidence-based responses using LLMs.
 
+**EcoSphere** (Flask, LLaVa, RAG, PostgreSQL, MongoDB, Gemini, React.js)
+- Built an advanced inventory management tool using an image recognition model, surpassing traditional LLM APIs in accuracy.
+- Integrated the LLaVA model with a projection layer for precise visual analysis.
+- Provided in-depth analytics on inventory and carbon emissions via PlanetFWD’s API.
+- Identified top contributors to carbon footprint with actionable insights.
+- Developed a marketplace for businesses to trade products for cash or carbon credits.
+- Delivered an exceptional, user-friendly frontend design.
+-[View final submission to MIT](https://docs.google.com/presentation/d/1uR-xF0Jn6-zkjm3K6VvMd-AtJ-c82KWW4c8c1l04I6Q/edit#slide=id.p4)
+
 **DocReach** (Winner, HopHacks | Next.js, Flask, Pytorch, MongoDB, Git)
 - Built a mobile web app to improve healthcare access in rural areas of lower-middle-income countries.
 - Developed the frontend using Next.js and the backend using Flask, integrating MongoDB for data storage.
 - Implemented NLP techniques to facilitate multimodal communication through text, audio, and images.
 - Designed an interactive disease map for epidemic analysis and created a custom disease prediction model to aid
 clinical decision-making.
+-[View on Devpost](https://devpost.com/software/easydoctor)
+
+**DocReach** (Winner, HopHacks | Next.js, Flask, Pytorch, MongoDB, Git)
+- Built a mobile web app to improve healthcare access in rural areas of lower-middle-income countries.
+- Developed the frontend using Next.js and the backend using Flask, integrating MongoDB for data storage.
+- Implemented NLP techniques to facilitate multimodal communication through text, audio, and images.
+- Designed an interactive disease map for epidemic analysis and created a custom disease prediction model to aid
+clinical decision-making.
+-[View on Devpost](https://devpost.com/software/easydoctor)
 
 **ResQVision** (Winner, Bitcamp | React.js, Flask, Pytorch, MongoDB, Git)
 - Created a web app to enhance disaster response, utilizing a YOLO ML model for optimized rescue operations.
 - Built with a YOLO object detection model for survivor identification and Google Maps API for debris mapping.
 - Data stored in MongoDB; real-time video processing added for improved functionality.
 - Overcame challenges with debris datasets by utilizing the Gemini model for accurate detection.
+- [View on Devpost](https://devpost.com/software/resqvision)
 
 **CtrlFMyVideo** (Winner, HoyaHacks | React.js, Flask, Pytorch, MongoDB, Git)
-- CtrlF My Video revolutionizes video analysis with advanced AI audio recognition.
-- Quickly identifies key moments like gunshots and car crashes in large video collections. Making crime detection easier.
-- Combines speed and accuracy through a user-friendly interface.
-- Makes video analysis faster, easier, and more efficient.
+-AI-powered web application designed to detect and analyze specific sounds in videos, such as gunshots or car crashes, to aid professionals like law enforcement officers in locating critical events quickly.
+-Utilizes a custom ML model trained on various sound datasets (e.g., gunshots, car crashes) and integrates MongoDB for storing and managing audio logs. The frontend allows users to upload video files and view detected events.
+-Built with Python, PyTorch for ML model training, Flask for the backend, and MongoDB for data management. The frontend is developed using HTML, CSS, and Node.js.
+-Future plans include enhancing the model with larger datasets and more layers, improving frontend features like event highlighting, and integrating with emergency systems for real-time alerts.
+-[View on Devpost](https://devpost.com/software/ctrl-f-my-audio)
 
 
 ---
