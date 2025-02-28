@@ -61,10 +61,10 @@ clinical decision-making.
 - [View on Devpost](https://devpost.com/software/resqvision)
 
 **CtrlFMyVideo** (Winner, HoyaHacks | React.js, Flask, Pytorch, MongoDB, Git)
--AI-powered web application designed to detect and analyze specific sounds in videos, such as gunshots or car crashes, to aid professionals like law enforcement officers in locating critical events quickly.
--Utilizes a custom ML model trained on various sound datasets (e.g., gunshots, car crashes) and integrates MongoDB for storing and managing audio logs. The frontend allows users to upload video files and view detected events.
--Built with Python, PyTorch for ML model training, Flask for the backend, and MongoDB for data management. The frontend is developed using HTML, CSS, and Node.js.
--Future plans include enhancing the model with larger datasets and more layers, improving frontend features like event highlighting, and integrating with emergency systems for real-time alerts.
+- AI-powered web application designed to detect and analyze specific sounds in videos, such as gunshots or car crashes, to aid professionals like law enforcement officers in locating critical events quickly.
+- Utilizes a custom ML model trained on various sound datasets (e.g., gunshots, car crashes) and integrates MongoDB for storing and managing audio logs. The frontend allows users to upload video files and view detected events.
+- Built with Python, PyTorch for ML model training, Flask for the backend, and MongoDB for data management. The frontend is developed using HTML, CSS, and Node.js.
+- Future plans include enhancing the model with larger datasets and more layers, improving frontend features like event highlighting, and integrating with emergency systems for real-time alerts.
 - [View on Devpost](https://devpost.com/software/ctrl-f-my-audio)
 
 
