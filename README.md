@@ -44,14 +44,6 @@ for user queries.
 clinical decision-making.
 - [View on Devpost](https://devpost.com/software/easydoctor)
 
-**DocReach** (Winner, HopHacks | Next.js, Flask, Pytorch, MongoDB, Git)
-- Built a mobile web app to improve healthcare access in rural areas of lower-middle-income countries.
-- Developed the frontend using Next.js and the backend using Flask, integrating MongoDB for data storage.
-- Implemented NLP techniques to facilitate multimodal communication through text, audio, and images.
-- Designed an interactive disease map for epidemic analysis and created a custom disease prediction model to aid
-clinical decision-making.
-- [View on Devpost](https://devpost.com/software/easydoctor)
-
 **ResQVision** (Winner, Bitcamp | React.js, Flask, Pytorch, MongoDB, Git)
 - Created a web app to enhance disaster response, utilizing a YOLO ML model for optimized rescue operations.
 - Built with a YOLO object detection model for survivor identification and Google Maps API for debris mapping.
