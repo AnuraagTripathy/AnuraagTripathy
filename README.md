@@ -1,5 +1,5 @@
 ## Hi there, I'm Anuraag Tripathy 👋
----
+--
 [Email](mailto:anuraagstudy@gmail.com)|[LinkedIn](https://www.linkedin.com/in/anuraagtripathy)|[Devpost](https://devpost.com/anuraagstudy?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ## About Me
