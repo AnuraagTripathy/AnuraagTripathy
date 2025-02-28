@@ -35,8 +35,7 @@ for user queries.
 - Identified top contributors to carbon footprint with actionable insights.
 - Developed a marketplace for businesses to trade products for cash or carbon credits.
 - Delivered an exceptional, user-friendly frontend design.
-  
-[View final submission to MIT](https://docs.google.com/presentation/d/1uR-xF0Jn6-zkjm3K6VvMd-AtJ-c82KWW4c8c1l04I6Q/edit#slide=id.p4)
+  [View final submission to MIT](https://docs.google.com/presentation/d/1uR-xF0Jn6-zkjm3K6VvMd-AtJ-c82KWW4c8c1l04I6Q/edit#slide=id.p4)
 
 **DocReach** (Winner, HopHacks | Next.js, Flask, Pytorch, MongoDB, Git)
 - Built a mobile web app to improve healthcare access in rural areas of lower-middle-income countries.
