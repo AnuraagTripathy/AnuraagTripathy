@@ -35,7 +35,7 @@ for user queries.
 - Identified top contributors to carbon footprint with actionable insights.
 - Developed a marketplace for businesses to trade products for cash or carbon credits.
 - Delivered an exceptional, user-friendly frontend design.
-  [View final submission to MIT](https://docs.google.com/presentation/d/1uR-xF0Jn6-zkjm3K6VvMd-AtJ-c82KWW4c8c1l04I6Q/edit#slide=id.p4)
+- [View final submission to MIT](https://docs.google.com/presentation/d/1uR-xF0Jn6-zkjm3K6VvMd-AtJ-c82KWW4c8c1l04I6Q/edit#slide=id.p4)
 
 **DocReach** (Winner, HopHacks | Next.js, Flask, Pytorch, MongoDB, Git)
 - Built a mobile web app to improve healthcare access in rural areas of lower-middle-income countries.
@@ -43,7 +43,7 @@ for user queries.
 - Implemented NLP techniques to facilitate multimodal communication through text, audio, and images.
 - Designed an interactive disease map for epidemic analysis and created a custom disease prediction model to aid
 clinical decision-making.
--[View on Devpost](https://devpost.com/software/easydoctor)
+- [View on Devpost](https://devpost.com/software/easydoctor)
 
 **DocReach** (Winner, HopHacks | Next.js, Flask, Pytorch, MongoDB, Git)
 - Built a mobile web app to improve healthcare access in rural areas of lower-middle-income countries.
@@ -51,7 +51,7 @@ clinical decision-making.
 - Implemented NLP techniques to facilitate multimodal communication through text, audio, and images.
 - Designed an interactive disease map for epidemic analysis and created a custom disease prediction model to aid
 clinical decision-making.
--[View on Devpost](https://devpost.com/software/easydoctor)
+- [View on Devpost](https://devpost.com/software/easydoctor)
 
 **ResQVision** (Winner, Bitcamp | React.js, Flask, Pytorch, MongoDB, Git)
 - Created a web app to enhance disaster response, utilizing a YOLO ML model for optimized rescue operations.
@@ -65,7 +65,7 @@ clinical decision-making.
 -Utilizes a custom ML model trained on various sound datasets (e.g., gunshots, car crashes) and integrates MongoDB for storing and managing audio logs. The frontend allows users to upload video files and view detected events.
 -Built with Python, PyTorch for ML model training, Flask for the backend, and MongoDB for data management. The frontend is developed using HTML, CSS, and Node.js.
 -Future plans include enhancing the model with larger datasets and more layers, improving frontend features like event highlighting, and integrating with emergency systems for real-time alerts.
--[View on Devpost](https://devpost.com/software/ctrl-f-my-audio)
+- [View on Devpost](https://devpost.com/software/ctrl-f-my-audio)
 
 
 ---
