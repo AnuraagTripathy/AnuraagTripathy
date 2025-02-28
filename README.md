@@ -1,11 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Anuraag Tripathy 👋
+---
+I'm Anuraag Tripathy, a driven and innovative individual pursuing a Bachelor of Science in Computer Science and Mathematics at the University of Maryland, College Park. With a strong technical foundation and hands-on experience in both industry and academic projects, I thrive on creating impactful solutions that merge technology with real-world problem-solving. I love solving problems in society, especially regarding making processes and businesses more sustainable.
 
-I'm Anuraag Tripathy, a driven and innovative individual pursuing a Bachelor of Science in Computer Science and Mathematics at the University of Maryland, College Park. With a strong technical foundation and hands-on experience in both industry and academic projects, I thrive on creating impactful solutions that merge technology with real-world problem-solving.
-
-### 📫 How to reach me:
-- [Email](mailto:anuraagstudy@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/anuraagtripathy)
-- [GitHub](https://github.com/AnuraagTripathy)
+[Email](mailto:anuraagstudy@gmail.com)|[LinkedIn](https://www.linkedin.com/in/anuraagtripathy)|[Devpost](https://devpost.com/anuraagstudy?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ---
 
