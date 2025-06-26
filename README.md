@@ -73,5 +73,5 @@ clinical decision-making.
 **University of Maryland, College Park**
 - Bachelor of Science in Computer Science and Mathematics
 - Expected Graduation: December 2026
-- GPA: 3.971/4.000, Dean’s List Awardee
+- GPA: 3.8/4.000, Dean’s List Awardee
 
